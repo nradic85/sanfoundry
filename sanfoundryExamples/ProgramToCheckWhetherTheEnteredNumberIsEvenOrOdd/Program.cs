@@ -10,8 +10,19 @@ namespace ProgramToCheckWhetherTheEnteredNumberIsEvenOrOdd
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.ReadKey();
+            int i = 0;
+            Console.WriteLine("Insert number:");
+            i=int.Parse(Console.ReadLine());
+            if (i % 2 == 0)
+            {
+                Console.WriteLine("Entered number is an Even Number");
+                Console.ReadKey();
+            }
+            else
+            {
+                Console.WriteLine("Entered number is an Odd Number");
+                Console.ReadKey();
+            }
         }
     }
 }

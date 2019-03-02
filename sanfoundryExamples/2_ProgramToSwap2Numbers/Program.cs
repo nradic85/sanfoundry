@@ -18,7 +18,7 @@ namespace _2_ProgramToSwap2Numbers
             temp = firstNumber;
             firstNumber = secondNumber;
             secondNumber = temp;
-            Console.WriteLine("After swaps first number is: "+firstNumber+" and second number is: "+secondNumber);
+            Console.WriteLine("After swapping first number is: "+firstNumber+" and second number is: "+secondNumber);
             Console.ReadKey();
         }
     }

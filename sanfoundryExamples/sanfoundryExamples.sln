@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sanfoundryExamples", "sanfo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramToCheckWhetherTheEnteredNumberIsEvenOrOdd", "ProgramToCheckWhetherTheEnteredNumberIsEvenOrOdd\ProgramToCheckWhetherTheEnteredNumberIsEvenOrOdd.csproj", "{BDE67FB2-D80F-4D62-8F09-7A4CB02509C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_ProgramToSwap2Numbers", "2_ProgramToSwap2Numbers\2_ProgramToSwap2Numbers.csproj", "{BE6A1F9A-09CA-4375-A549-C348BE746110}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BDE67FB2-D80F-4D62-8F09-7A4CB02509C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDE67FB2-D80F-4D62-8F09-7A4CB02509C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDE67FB2-D80F-4D62-8F09-7A4CB02509C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6A1F9A-09CA-4375-A549-C348BE746110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6A1F9A-09CA-4375-A549-C348BE746110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6A1F9A-09CA-4375-A549-C348BE746110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6A1F9A-09CA-4375-A549-C348BE746110}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

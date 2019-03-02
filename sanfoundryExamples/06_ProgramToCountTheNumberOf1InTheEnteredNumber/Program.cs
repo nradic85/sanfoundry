@@ -26,7 +26,7 @@ namespace _06_ProgramToCountTheNumberOf1InTheEnteredNumber
                     count++;
                 }
             }
-            Console.WriteLine("Number of 1's in the Entered Number : ");
+            Console.WriteLine("Number of 1's in the Entered Number. : ");
             Console.WriteLine(count);
             Console.ReadLine();
         }

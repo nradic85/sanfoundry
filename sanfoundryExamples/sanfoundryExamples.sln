@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27906.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sanfoundryExamples", "sanfoundryExamples\sanfoundryExamples.csproj", "{56BC8AE8-E15D-4874-8B1F-AD3E5E6E47A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_sanfoundryExamples", "sanfoundryExamples\00_sanfoundryExamples.csproj", "{56BC8AE8-E15D-4874-8B1F-AD3E5E6E47A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramToCheckWhetherTheEnteredNumberIsEvenOrOdd", "ProgramToCheckWhetherTheEnteredNumberIsEvenOrOdd\ProgramToCheckWhetherTheEnteredNumberIsEvenOrOdd.csproj", "{BDE67FB2-D80F-4D62-8F09-7A4CB02509C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_ProgramToCheckWhetherTheEnteredNumberIsEvenOrOdd", "ProgramToCheckWhetherTheEnteredNumberIsEvenOrOdd\01_ProgramToCheckWhetherTheEnteredNumberIsEvenOrOdd.csproj", "{BDE67FB2-D80F-4D62-8F09-7A4CB02509C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_ProgramToSwap2Numbers", "2_ProgramToSwap2Numbers\2_ProgramToSwap2Numbers.csproj", "{BE6A1F9A-09CA-4375-A549-C348BE746110}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_ProgramToSwap2Numbers", "2_ProgramToSwap2Numbers\02_ProgramToSwap2Numbers.csproj", "{BE6A1F9A-09CA-4375-A549-C348BE746110}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_ProgramToGetaNumberAndDisplayTheSumOfTheDigits", "03_ProgramToGetaNumberAndDisplayTheSumOfTheDigits\03_ProgramToGetaNumberAndDisplayTheSumOfTheDigits.csproj", "{4E22E7C8-799E-4084-8484-C2BCA3194D36}"
 EndProject

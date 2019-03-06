@@ -14,9 +14,9 @@ namespace _08_ProgramToDisplayTheDateInVariousFormats
              * C# Program to Display the Date in Various Formats 
              */
 
-            DateTime date = DateTime.Now;
+            //DateTime date = DateTime.Now;
             
-            //DateTime date = new DateTime(2019, 3, 6);
+            DateTime date = new DateTime(2019, 3, 6);
             Console.WriteLine("Some date formats: ");
             Console.WriteLine("Date and time: {0}", date);
             Console.WriteLine(date.ToString("yyyy-MM-dd"));
